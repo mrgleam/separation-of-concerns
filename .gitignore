@@ -4,4 +4,4 @@ coverage
 lerna-debug.log
 .env
 *.pdf
-
+.DS_Store
